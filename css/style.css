@@ -1,0 +1,223 @@
+
+
+*{
+
+}
+
+body{}
+.container{
+}
+
+
+p{}
+
+
+.col-1{width: 50%;float: left;}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+}
+.logo img{
+    width: 41%;
+}
+.menu{}
+.menu ul{
+    padding: 36px;
+    margin: 0px;
+    text-align: right;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+
+}
+
+.menu ul li a:hover{
+    color: chocolate;
+}
+
+
+.background{}
+.background img{
+    width: 100%;
+    background-size: cover;
+}
+
+
+
+
+
+.photodiary{width: 80%;margin: 0 auto;padding: 47px;overflow: hidden;}
+.photodiary h3{
+    opacity: 0.3;
+}
+
+.heading{}
+.heading h1{}
+.heading p{
+}
+.btn{}
+.btn a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: brown;
+    font-size: 20px;
+    opacity: 0.3;
+}
+.btn a:hover{
+    color: cadetblue;
+}
+
+
+
+
+.col-2{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+.img-1{display: block;box-sizing: border-box;}
+.img-1 img{
+    max-width: 85%;
+}
+.lifestyle-1{}
+.lifestyle-1 h3{
+    opacity: 0.3;
+}
+
+.heading-1{
+    text-align: justify;
+    display: block;
+    box-sizing: border-box;
+    width: 84%;
+}
+.heading-1 h1{}
+
+
+.img-2{}
+.img-2 img{
+    max-width: 86%;
+}
+
+
+.section{}
+
+.col-3{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.img-3{}
+.img-3 img{
+    max-width: 85%;
+}
+.photodiary-1{}
+.photodiary-1 h3{
+    opacity: 0.4;
+}
+.heading-2{
+    text-align: justify;
+    display: block;
+    box-sizing: border-box;
+    width: 84%;
+}
+.heading-2 h1{}
+.heading-2 h1 p{}
+
+
+.img-4{}
+.img-4 img{
+    max-width: 85%;
+}
+
+/* <!-- ---------------------------------------------newsletter--------------- --> */
+
+.newsletter{
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 87px;
+}
+
+.newsletter h3{
+    padding: 30px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+form{}
+form input{
+}
+.form-control{width: 400px;border: none;outline: none;border-bottom: 1px solid;padding: 10px 0;position: relative;}
+form button{
+    position: absolute;
+    transform: translateY(-7px);
+}
+form button img{
+    width: 36px;
+}
+
+
+/* <!-- ---------------------------------------------newsletter--------------- --> */
+/* <!-- -----------------------------------load-more-------------- --> */
+
+.load{
+    text-align: center;
+}
+.load button{
+    text-transform: uppercase;
+    padding: 20px 37px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.load button a{
+    text-decoration: none;
+    color: #0000009e;
+}
+
+/* <!-- -----------------------------------load-more-------------- --> */
+
+/* <!-- -----------------------------------footer-------------- --> */
+.footer{
+    padding-top: 68px;
+}
+.terms{
+    padding-left: 53px;
+}
+.terms ul{}
+.terms ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 6px;
+    font-size: 19px;
+}
+.terms ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.social{}
+/* .follow{} */
+.social span{
+    display: block;
+    text-align: end;
+    padding-top: 20px;
+}
+.social ul{
+    padding: 0;
+}
+.social ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 10px;
+}
+.social ul li a{
+    text-decoration: none;
+}
+
+/* <!-- -----------------------------------footer-------------- --> */
+
+
